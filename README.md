@@ -1,6 +1,6 @@
 # *Delivery Drone Simulator*
 
----
+
 
 ## *Team Information*
 * **Project Title:** Delivery Drone Simulator  
@@ -8,7 +8,7 @@
   * Huzaifa Johar – Logic Designer  
   * Zenu – Tester  
   * [Add more if needed] – Git Manager  
----
+
 
 ## *Overview / Problem Description*
 This project is about a drone that delivers 3 packages in one day:  
