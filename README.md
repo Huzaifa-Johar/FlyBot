@@ -30,8 +30,6 @@ At the end, it shows a summary of how many deliveries were successful, failed, o
 
 This project is important because it **simulates how real delivery drones work** and helps us understand decision-making in changing conditions.
 
----
-
 ## *Program Design / Logic*
 * **Main Functions Used:**
   * startDay()
@@ -54,7 +52,7 @@ This project is important because it **simulates how real delivery drones work**
   * Rainy → delay delivery  
   * Obstacle → reroute (+5% battery)
 
----
+
 
 
 
