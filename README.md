@@ -8,7 +8,6 @@
   * Huzaifa Johar – Logic Designer  
   * Zenu – Tester  
   * [Add more if needed] – Git Manager  
-
 ---
 
 ## *Overview / Problem Description*
