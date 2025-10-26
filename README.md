@@ -38,7 +38,9 @@
 - Before moving forward it checks if battery is greater than 20.  
 - If battery is greater than 20 it first checks the weather condition and then obstacles.  
 - If battery is less than 20 it returns to base for recharge.  
-- After each delivery it displays the remaining battery level.  
+- After each delivery it displays the remaining battery level. 
+- At the end, it asks the user whether they want to continue the simulation or not.
+- Finally, it displays the summary.
 
 ###  **Random Events**
 - The program uses `rand()` to generate random numbers for weather and obstacles.  
