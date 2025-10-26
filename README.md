@@ -51,8 +51,10 @@
 - **Talal Tahir** – handled the coding part and implemented the core functions.  
 - **Huzaifa Johar** – worked as the documentor and tester — he created the README file.  
 
+---
 
-
-
+##  **Future Improvements**
+- If we knew about classes, we could make the code easier and simpler to understand.
+- It would also help us make the code more organized.
 
 
